@@ -16,7 +16,6 @@
 //= require_tree .
 
 
-<script>
 $(document).ready(function(){
     // Activate Carousel
     $("#myCarousel").carousel();
@@ -40,4 +39,3 @@ $(document).ready(function(){
         $("#myCarousel").carousel("next");
     });
 });
-</script>
