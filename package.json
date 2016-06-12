@@ -1,0 +1,22 @@
+{
+  "name": "newt",
+  "version": "1.0.0",
+  "description": "node.js procedure",
+  "main": "application.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasanthreddy6/NewT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasanthreddy6/NewT/issues"
+  },
+  "homepage": "https://github.com/prasanthreddy6/NewT#readme"
+}
